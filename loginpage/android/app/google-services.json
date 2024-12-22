@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771247080126",
+    "project_id": "otpverfication-30257",
+    "storage_bucket": "otpverfication-30257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771247080126:android:661d0e4e602735f53b14ef",
+        "android_client_info": {
+          "package_name": "com.example.yourapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRETCcQoJ851TcE1oMDTHMG0PMc3cx4qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
